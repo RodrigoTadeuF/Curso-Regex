@@ -1,0 +1,9 @@
+1. Definição: Resumidamente uma Expressão Regular é um método formal de se especificar um padrão de texto
+2. Onde são encontradas?
+    2.1.Linguagens de programação
+    2.2.Editores de texto
+    2.3.IDEs
+    2.4.Ferramentas de linhas de comando
+3. Linguagens vs REGEX (Sabores)
+    3.1.Cap 2 mostragem de como executar em algumas linguagens... Java, Ruby, Go, Python... JS
+    3.2.Curso será em JS, mas o conhecimento não é restrito a JS    
